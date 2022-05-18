@@ -6,6 +6,9 @@ ruby "3.0.3"
 # Form facilitator
 gem "simple_form", github: "heartcombo/simple_form"
 
+# Fake Data
+gem 'faker'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.3"
 
